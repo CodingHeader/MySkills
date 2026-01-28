@@ -16,3 +16,7 @@ Aligned with patterns from `vercel-labs/agent-skills` and `anthropics/skills`:
 
 ## Usage
 Import or reference skills by their paths above. See each `SKILL.md` for trigger logic and scripts for execution. Adjust PYTHONPATH or tooling to include `skills/` when importing modules.
+
+## Manager
+1. Use **Vercel Skills** (`npx skills`) as the downloader to manage sources and lock versions; see `manager/VercelLabs-Skills-README.md`.
+2. Use **OpenSkills** to point to the downloaded directories, generate the `AGENTS.md` index, and leverage on-demand loading for better context efficiency; see `manager/OpenSkills-README.md`.
