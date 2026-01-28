@@ -1,0 +1,27 @@
+[
+  {
+    "name": "multi-agent-thinker",
+    "description": "Heavy-lifting multi-agent reasoning patterns",
+    "path": "skills/multi-agent-thinker/SKILL.md"
+  },
+  {
+    "name": "instruction-repeater",
+    "description": "Repeat user instructions by length; always available",
+    "path": "skills/instruction_repeater/SKILL.md"
+  },
+  {
+    "name": "project-steward",
+    "description": "Project orchestration (planning, navigation, memory)",
+    "path": "skills/project-steward/SKILL.md"
+  },
+  {
+    "name": "project-structure-creator",
+    "description": "Enforce standardized project structure",
+    "path": "skills/project-structure-creator/SKILL.md"
+  },
+  {
+    "name": "ui-ux-pro-max",
+    "description": "UI/UX design helper",
+    "path": "skills/ui-ux-pro-max/SKILL.md"
+  }
+]

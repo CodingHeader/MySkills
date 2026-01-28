@@ -1,0 +1,126 @@
+{
+  "root": {
+    "src": {
+      "app": {
+        "providers.tsx": "file",
+        "router.tsx": "file",
+        "store.ts": "file",
+        "index.tsx": "file"
+      },
+      "assets": {
+        "fonts": {},
+        "images": {},
+        "icons": {}
+      },
+      "config": {
+        "env.ts": "file",
+        "constants.ts": "file"
+      },
+      "features": {
+        "order": {
+          "api": {
+            "index.ts": "file"
+          },
+          "components": {
+            "OrderCard": {
+              "index.tsx": "file",
+              "index.module.scss": "file"
+            }
+          },
+          "hooks": {
+            "index.ts": "file"
+          },
+          "types": {
+            "index.ts": "file"
+          },
+          "index.ts": "file"
+        }
+      },
+      "layouts": {
+        "MainLayout": {
+          "MainLayout.tsx": "file",
+          "index.ts": "file"
+        }
+      },
+      "lib": {
+        "axios.ts": "file",
+        "query-client.ts": "file"
+      },
+      "pages": {
+        "Home": {
+          "index.tsx": "file",
+          "index.module.scss": "file"
+        },
+        "NotFound": {
+          "index.tsx": "file"
+        }
+      },
+      "shared": {
+        "components": {
+          "Button": {
+            "index.tsx": "file",
+            "index.module.scss": "file",
+            "types.ts": "file"
+          }
+        },
+        "hooks": {
+            "index.ts": "file"
+        },
+        "types": {
+            "index.ts": "file"
+        },
+        "utils": {
+            "index.ts": "file"
+        },
+        "api": {
+            "index.ts": "file"
+        },
+        "constants": {
+            "index.ts": "file"
+        }
+      },
+      "styles": {
+        "global.scss": "file",
+        "variables.scss": "file",
+        "mixins.scss": "file"
+      },
+      "router": {
+          "index.ts": "file",
+          "routes.ts": "file"
+      },
+      "main.tsx": "file",
+      "vite-env.d.ts": "file"
+    },
+    "public": {},
+    "config": {
+        "config.default.json": "file",
+        "config.dev.json": "file",
+        "config.test.json": "file",
+        "config.prod.json": "file",
+        "config.local.json": "file",
+        "config.example.json": "file"
+    },
+    "docs": {
+      "ADR": {
+        "001-project-structure.md": "file"
+      }
+    },
+    "tests": {
+      "e2e": {},
+      "unit": {}
+    },
+    ".husky": {},
+    ".github": {
+      "workflows": {
+        "ci.yml": "file"
+      }
+    },
+    ".gitignore": "file",
+    ".eslintrc.js": "file",
+    ".prettierrc": "file",
+    "tsconfig.json": "file",
+    "package.json": "file",
+    "vite.config.ts": "file",
+    "README.md": "file"
+  }
+}
