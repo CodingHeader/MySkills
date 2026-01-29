@@ -7,7 +7,7 @@ npx skills add https://github.com/squirrelscan/skills --skill audit-website
 npx skills add https://github.com/supabase/agent-skills --skill postgres-best-practices
 npx skills add https://github.com/nextlevelbuilder/ui-ux-pro-max-skill --skill ui-ux-pro-max
 npx skills add https://github.com/better-auth/skills --skill best-practices
-npx skills add https://github.com/vercel-labs/agent-skills --skill vercel-composition-patterns
+npx skills add https://github.com/vercel-labs/agent-skills --skill composition-patterns
 npx skills add https://github.com/obra/superpowers --skill brainstorming
 npx skills add https://github.com/callstackincubator/agent-skills --skill react-native-best-practices
 npx skills add https://github.com/browser-use/browser-use --skill browser-use
