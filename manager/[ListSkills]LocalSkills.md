@@ -13,6 +13,7 @@ npx skills add https://github.com/callstackincubator/agent-skills --skill react-
 npx skills add https://github.com/browser-use/browser-use --skill browser-use
 npx skills add https://github.com/remotion-dev/skills --skill remotion
 
+npx skills add https://github.com/OthmanAdi/planning-with-files --skill planning-with-files
 
 ## 来自anthropics
 npx skills add https://github.com/anthropics/skills --skill frontend-design
