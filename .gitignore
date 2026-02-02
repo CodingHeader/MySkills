@@ -31,5 +31,5 @@ pnpm-debug.log*
 # Agent skills
 .agent/
 
-SkillstoreZip/
-Skillstore/
+# SkillstoreZip/
+# Skillstore/
